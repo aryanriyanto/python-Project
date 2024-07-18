@@ -1,0 +1,8 @@
+python :bahasa pemerograman yang
+mudah dimengerti,
+gratis,
+dynamic,
+multi platform (web development, mobile Apps, desktop Apps),
+lagi hype (Data Science, Robotics, machine learning, data analyst, Artificial Intelligent)
+ 
+==> cara mengcompile, buka terminal dan tuliskan python -m py_compile (nama file)

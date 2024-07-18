@@ -1,0 +1,11 @@
+print("---Casting Type Data---");
+print("========================================");
+angka = 9;
+print('data = ',angka,"type",type(angka));
+data_float =float(angka);
+data_str =str(angka);
+data_bool =bool(angka);
+print("data",angka,"type",type(data_float));
+print("data",angka,"type",type(data_str));
+print("data",angka,"type",type(data_bool));
+print("========================================\n");
